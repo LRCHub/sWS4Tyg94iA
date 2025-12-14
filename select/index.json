@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "白雪姫",
+  "base_artist": "Flower",
+  "createdAt": "2025-12-14T03:46:50.311578Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "白雪姫",
+      "artist": "Flower",
+      "has_synced": true,
+      "path": "select/01_白雪姫_Flower.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "白雪姫(version2016)",
+      "artist": "Flower",
+      "has_synced": true,
+      "path": "select/02_白雪姫(version2016)_Flower.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "白雪姫　orchestra mix",
+      "artist": "Flower",
+      "has_synced": true,
+      "path": "select/03_白雪姫_orchestra_mix_Flower.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "白雪姫 - Shirayukihime",
+      "artist": "Flower",
+      "has_synced": true,
+      "path": "select/04_白雪姫_-_Shirayukihime_Flower.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "白雪姫 - From THE FIRST TAKE",
+      "artist": "伶",
+      "has_synced": true,
+      "path": "select/05_白雪姫_-_From_THE_FIRST_TAKE_伶.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "いつか王子様が (『白雪姫』より)",
+      "artist": "Yoshimi Niikura",
+      "has_synced": false,
+      "path": "select/06_いつか王子様が_(『白雪姫』より)_Yoshimi_Niikura.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "白雪姫",
+      "artist": "Flower",
+      "has_synced": false,
+      "path": "select/pl_01_白雪姫_Flower.txt"
+    }
+  ]
+}
